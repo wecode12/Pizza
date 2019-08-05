@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ##   Pizza
 ##   Author
 Joselyne Tusingwire:
@@ -20,7 +20,5 @@ tel:0783891444
 ####   License:
 https://wecode12.github.io/Delani-studios/
 
-copyright (c)2019 Delani-studios
-=======
-# Pizza
->>>>>>> 285c0e53eb3e146074684f8765d6bcb1c52a943f
+copyright (c)2019 Pizza
+
