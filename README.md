@@ -18,7 +18,7 @@ email:joselynetusingwire@gmail.com
 tel:0783891444
 
 ####   License:
-https://wecode12.github.io/Pizza/
+
 
 copyright (c)2019 Pizza
 
