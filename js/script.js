@@ -45,5 +45,4 @@ $('#Submitorder').click(function (event) {
      
   
 
-      // $('.deliveryP').text('1500');
-      // $('.costP').text(newPizza.totalFull());});});
+      
