@@ -44,5 +44,5 @@ $('#Submitorder').click(function (event) {
       });});});
      
   
-    }):
+
       
