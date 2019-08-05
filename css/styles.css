@@ -1,0 +1,120 @@
+    .banner{
+        background-image: url("/home/wecode/Desktop/Pizza/images/images (9).jpeg");
+    background-size: cover;
+    width: 150%;
+    height: 100%;
+    opacity: 1px;
+   
+    }
+    
+    
+header{
+    background-color: black;
+}
+section1{
+    display: flex;
+    width: 100%;
+    height: 100%;
+    padding: 0px;
+   
+}
+section2{
+    display:flex;
+    width: 100%;
+    height: 100%;
+    padding: 0px;}
+    
+ul{
+    text-align:center;
+}
+ul li{
+
+display: inline;
+padding:30px;
+
+
+}
+
+   #hed {
+    text-align: center;
+    }
+    h2{
+        text-align: center;
+    }
+h1{
+    text-align: center;
+    color: white;
+}
+  
+p{
+    text-align: left;
+    color: black;
+    width: 50%;
+
+}
+#use {
+    width: 300px;
+    height: 300px;
+    border: 1px solid black;
+    display: -webkit-flex;
+    display: flex;
+  }
+  #pest {
+    width: 300px;
+    height: 300px;
+    border: 1px solid black;
+    display: -webkit-flex; 
+    display: flex;
+  }
+  #well {
+    width: 300px;
+    height: 300px;
+    border: 1px solid black;
+    display: -webkit-flex; 
+    display: flex;
+  }
+  #dele {
+    width: 300px;
+    height: 300px;
+    border: 1px solid black;
+    display: -webkit-flex; 
+    display: flex;
+  }
+  #said{
+    width: 300px;
+    height: 300px;
+    border: 1px solid black;
+    display: -webkit-flex; 
+    display: flex;
+  }
+  #nice {
+    width: 300px;
+    height: 300px;
+    border: 1px solid black;
+    display: -webkit-flex; 
+    display: flex;
+  }
+  #new {
+    width: 300px;
+    height: 300px;
+    border: 1px solid black;
+    display: -webkit-flex; 
+    display: flex;
+  }
+  #ice {
+    width: 300px;
+    height: 300px;
+    border: 1px solid black;
+    display: -webkit-flex;
+  }
+    
+  #pop{
+      display: flex;
+  }
+    #pepu{
+        display: flex;
+    }
+    #body{
+        background-image: url("https://images.unsplash.com/photo-1474511019749-26a5a4b632b2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60");
+        background-size: cover;
+    }
