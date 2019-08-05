@@ -118,3 +118,44 @@ p{
         background-image: url("https://images.unsplash.com/photo-1474511019749-26a5a4b632b2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60");
         background-size: cover;
     }
+    .fa-twitter {
+        background: #55ACEE;
+        color: white;}
+
+        .fa {
+            padding: 10px;
+            font-size: 10px;
+            width: 10px;
+            text-align: center;
+            text-decoration: none;
+          }
+          
+          /* Add a hover effect if you want */
+          .fa:hover {
+            opacity: 0.7;
+          }
+          
+          /* Set a specific color for each brand */
+          
+          /* Facebook */
+          .fa-facebook {
+            background: #3B5998;
+            color: white;
+          }
+          
+          /* Twitter */
+          .fa-twitter {
+            background: #55ACEE;
+            color: white;
+          }
+          /* Instagram */
+          .fa-intagram {
+            background: #55ACEE;
+            color: white;
+          }
+          #us{
+              background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS3hxgGEHFEzfFZHC8Y-4qBbaoAtdn0hfhmBcPfKXyJoFR9cUFvA");
+          width:2000;
+          height: 200;
+          background-size: cover;
+            }
